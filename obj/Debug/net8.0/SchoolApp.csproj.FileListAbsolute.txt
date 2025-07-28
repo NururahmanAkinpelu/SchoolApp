@@ -1,0 +1,14 @@
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.AssemblyInfoInputs.cache
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.AssemblyInfo.cs
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\bin\Debug\net8.0\SchoolApp.exe
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\bin\Debug\net8.0\SchoolApp.deps.json
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\bin\Debug\net8.0\SchoolApp.runtimeconfig.json
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\bin\Debug\net8.0\SchoolApp.dll
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\bin\Debug\net8.0\SchoolApp.pdb
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.dll
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\obj\Debug\net8.0\refint\SchoolApp.dll
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.pdb
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.genruntimeconfig.cache
+C:\Users\ADEYEMI\source\repos\SchoolApp\SchoolApp\obj\Debug\net8.0\ref\SchoolApp.dll
