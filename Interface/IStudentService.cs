@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SchoolApp.Models.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,11 @@ namespace SchoolApp.Interface
 {
     public interface IStudentService
     {
-        void AddStudent(string fistName, string lastName, string email, int age, string address);
+        void AddStudent(string fistName, string lastName, string level, string email, int age, string address);
+        List<Student> GetStudents();
+        List<Student> GetStudents(string parameter);
+        Student GetStudent(string studentId);
+
+
     }
 }

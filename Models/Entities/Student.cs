@@ -9,6 +9,7 @@ namespace SchoolApp.Models.Entities
     public class Student : Person
     {
         public string Level { get; set; }
+        public string StudentId { get; set; }
         public List<Course> Courses { get; set; } = new List<Course>();
     }
 }
